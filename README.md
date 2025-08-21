@@ -2,7 +2,14 @@
 created by [Kittiphop Phanthachart](https://bento.me/mac-kittiphop) (a 4th-year Engineering student)
 
 
+[PCB_Design_Manual Doc](https://docs.google.com/document/d/1T2QgssXLalr-_P1kaVpM2Z5Q4rbRVg9ENvGY7iWf7Jk/edit?usp=sharing)
+---
 
+
+Main Drive : [PCB Design Reference](https://drive.google.com/drive/folders/1iH3Fwa9-kuD3eO-nP3mI9ks_AyRZPl0m?usp=drive_link)
+
+
+Slide presentation file : [ENE311_PCB_Design_Slide.pdf](https://drive.google.com/file/d/1ZLuTyXhizw9S3qezdIU1Z15aCVTSmlFd/view?usp=drive_link)
 
 
 
