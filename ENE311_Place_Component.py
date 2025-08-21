@@ -1,5 +1,5 @@
 ## ============================================================================
-##  File        : Place_Component.py
+##  File        : ENE311_Place_Component.py
 ##  Description : Utility script for KiCad – Placement & Annotation Helpers
 ##                For ENE311 : Fundamentals of Electronic Product Design 
 ##                / PCB Design Class
@@ -10,6 +10,10 @@
 ##  Department  : Electronic and Telecommunication Engineering (ENE)
 ##
 ##  Created     : 2025-08-19
+## ============================================================================
+## [PCB_Design_Manual Doc](https://docs.google.com/document/d/1T2QgssXLalr-_P1kaVpM2Z5Q4rbRVg9ENvGY7iWf7Jk/edit?usp=sharing)
+## [PCB Design Reference](https://drive.google.com/drive/folders/1iH3Fwa9-kuD3eO-nP3mI9ks_AyRZPl0m?usp=drive_link)
+## [ENE311_PCB_Design_Slide](https://drive.google.com/file/d/1ZLuTyXhizw9S3qezdIU1Z15aCVTSmlFd/view?usp=drive_link)
 ## ============================================================================
 
 import re
