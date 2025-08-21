@@ -16,7 +16,7 @@ Slide presentation file : [ENE311_PCB_Design_Slide.pdf](https://drive.google.com
 ---
 
 
-# Place_Component.py
+# ENE311_Place_Component.py
 
 Utilities for **KiCad pcbnew (Python 3)** — quick placement, text annotation, track locking, and a silkscreen BOM legend.  
 Tested with **KiCad ** .
